@@ -24,7 +24,7 @@ To effectively use and understand this project, it is recommended to have prior 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/imariagg/genetic-algorithm.git
    cd repository-name
    ```
 
